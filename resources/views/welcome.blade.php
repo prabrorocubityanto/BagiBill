@@ -329,7 +329,7 @@
             <a href="#home">Home</a>
             <a href="#tentang">Tentang</a>
             <a href="#cara-kerja">Cara Kerja</a>
-            <a href="#mulai" class="nav-button">Mulai Bagi Tagihan</a>
+            <a href="/create-bill" class="nav-button">Mulai Bagi Tagihan</a>
         </div>
     </nav>
 
@@ -349,7 +349,7 @@
                 dengan lebih mudah, praktis, dan transparan.
             </p>
 
-            <a href="#mulai" class="main-button">
+            <a href="/create-bill" class="main-button">
                 Mulai Bagi Tagihan →
             </a>
 
@@ -425,7 +425,7 @@
             Nggak perlu ribet lagi saat menghitung pembayaran bersama.
         </p>
 
-        <a href="#home" class="main-button">
+       <a href="#home" class="main-button">
             Mulai Sekarang →
         </a>
     </section>
